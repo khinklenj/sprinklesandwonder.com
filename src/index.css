@@ -1,0 +1,13 @@
+
+@import "tailwindcss";
+
+:root {
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #684a59;
+  background: #fff9f3;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
